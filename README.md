@@ -1,6 +1,6 @@
 # Multi-View Autoencoding Losses
 
-This repository contains the code for our paper ["Structural Information Preserving for Graph-to-Text Generation"](https://)
+This repository contains the code for our paper ["Structural Information Preserving for Graph-to-Text Generation"](https://)(ACL2020)
 
 The code is developed under Pytorch 1.0 Due to the compitibility reason of Pytorch, it may not be loaded by some lower version (such as 0.4.0).
 
@@ -39,5 +39,3 @@ First, modify the PATH within "train.sh". "data_prefix" is the preprocessing dir
 ## Decoding 
 
 You should change the PATH in the "translate.sh" accordingly, and then execute ```bash translate.sh```. 
-
-## Cite 
